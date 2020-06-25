@@ -1,0 +1,23 @@
+*{
+    background-color:gainsboro;
+}
+.black{
+    color: black;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 700px;
+}
+#status{
+    position: relative;
+    margin-top: 150px;
+    margin-left: 800px;
+}
+#board{
+
+    position: relative;
+    margin-top: 10px;
+    margin-left: 800px;   
+}
+#board button:hover{
+    transition: 10s;
+}
